@@ -1,6 +1,6 @@
 .VPHome {
   &::before {
-    background-image: url(./assets/imgs/sunset.jpg);
+    background-image: url(./imgs/sunset.jpg);
     background-size: cover;
   }
   background: radial-gradient(
