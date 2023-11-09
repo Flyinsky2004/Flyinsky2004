@@ -1,0 +1,11 @@
+.VPHome {
+  &::before {
+    background-image: url(./imgs/sunset.jpg);
+    background-size: cover;
+  }
+  background: radial-gradient(
+    ellipse,
+    rgba(var(--bg-gradient-home), 1) 0%,
+    rgba(var(--bg-gradient-home), 0) 100%
+  );
+}
