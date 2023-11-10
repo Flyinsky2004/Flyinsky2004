@@ -3,5 +3,5 @@
     background-image: url(./imgs/sunset.jpg);
     background-size: cover;
   }
-  background: rgba(var(--bg-gradient-home),0.10)
+  background: rgba(var(--bg-gradient-home),0.0)
 }
