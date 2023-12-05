@@ -1,0 +1,8 @@
+.VPHome {
+  &::before {
+    background-image: url(./imgs/sunset.png);
+    background-size: cover;
+  }
+  background: rgba(var(--bg-gradient-home),0.01)
+}
+
