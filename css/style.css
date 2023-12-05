@@ -1,8 +1,16 @@
 .VPHome {
   &::before {
-    background-image: url(./imgs/sunset.png);
+    background-image: url(/public/imgs/sunset.png);
     background-size: cover;
   }
   background: rgba(var(--bg-gradient-home),0.01)
 }
-
+@font-face {
+    font-family: '思源黑体';
+    src: url("/public/fonts/SH.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+		font-family:'思源黑体' ;
+}
